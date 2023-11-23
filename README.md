@@ -7,3 +7,5 @@
 ## Videos:
 - Distance between 2 points in euclidian metric - video: <a>https://www.youtube.com/watch?v=WSI7z_p2adY</a>, code: ```distance2points.py```<br>
 To run this code you need to install manim and type this in your terminal: ```manim -p -ql distance2points.py FirstVideo```
+- Pythagorean theorem proof - video: <a>https://www.youtube.com/watch?v=io2tEg6hbuw</a>, code: ```pythagoreanTheorem.py```<br>
+To run this code you need to install manim and type this in your terminal: ```manim -p -ql pythagoreanTheorem.py Video```
